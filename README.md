@@ -19,7 +19,7 @@
 <h2 align="left"> Languages and Tools </h2>
 
 [<code>
-<img alt="visual studio" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio" />
+<img alt="visual studio" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-2019" />
 </code>](https://code.visualstudio.com/)
 [<code>
 <img alt="pycharm" width="26px" src="https://img.icons8.com/color/240/000000/pycharm.png" />
