@@ -1,7 +1,7 @@
 <h1 align ="center"> Hi 👋, I'm Ahmet </h1>
 
 <h3> Data Science Enthusiast and Computer Science Student </h3>
-<&nbsp>
+&nbsp
 
 - 🔭 I’m currently 4th year **Computer Science Student**
 
