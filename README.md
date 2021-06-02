@@ -8,11 +8,10 @@
 
 - 📫 How to reach me: ahmett.kayacii@gmail.com 
 
--
+<br/>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ahmetkayaci)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ahmetkayaci/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://ahmetkayaci.medium.com/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetkayaci)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmetkayaci&show_icons=true&count_private=true)  
 
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmetkayaci)](https://github.com/anuraghazra/github-readme-stats)>
