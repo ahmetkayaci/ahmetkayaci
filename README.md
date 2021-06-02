@@ -2,7 +2,6 @@
 
 <h3> Data Science Enthusiast and Computer Science Student </h3>
 <br />
-
 ---
 
 - 🔭 I’m currently 4th year **Computer Science Student**
