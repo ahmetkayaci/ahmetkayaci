@@ -15,7 +15,7 @@
 <a href="https://linkedin.com/in/ahmetkayaci" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ahmetkayaci" height="30" width="40" /></a>
 <a href="https://ahmetkayaci.medium.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="ahmet-kayaci" height="30" width="40" /></a>
 <a href="https://kaggle.com/ahmetkayaci" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="ahmetkayaci" height="30" width="40" /></a></p>
-&nbsp
+
 <h3 align="left"> Languages and Tools </h3>
 
 [<code>
@@ -31,7 +31,7 @@
 <img alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
 </code>](https://dev.mysql.com/)
 
-
+&nbsp
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmetkayaci&show_icons=true&theme=dark&locale=en&layout=compact" alt="ahmetkayaci" /></p>
 &nbsp
 <p><img src="https://github-readme-stats.vercel.app/api?username=ahmetkayaci&show_icons=true&count_private=true&theme=algolia" alt="ahmetkayaci" /></p>
