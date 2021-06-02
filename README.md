@@ -3,7 +3,9 @@
 <h3> Data Science Enthusiast and Computer Science Student </h3>
 
 - 🔭 I’m currently 4th year Computer Science Student
+
 - 🌱 I’m currently learning Data Science and Machine Learning 
+
 - 📫 How to reach me: ahmett.kayacii@gmail.com 
 
 
