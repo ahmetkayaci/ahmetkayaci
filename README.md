@@ -24,6 +24,9 @@
 [<code>
 <img alt="pycharm" width="26px" src="https://img.icons8.com/color/240/000000/pycharm.png" />
 </code>](https://www.jetbrains.com/pycharm/)
+[<code>
+<img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">
+</code>](https://www.python.org/)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmetkayaci&show_icons=true&theme=dark&locale=en&layout=compact" alt="ahmetkayaci" /></p>
