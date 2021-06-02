@@ -31,6 +31,9 @@
 <img alt="MySQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
 </code>](https://dev.mysql.com/)
 
+<br />
+
+<br />
 
 <p>&nbsp<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmetkayaci&show_icons=true&theme=dark&locale=en&layout=compact" alt="ahmetkayaci" /> <img src="https://github-readme-stats.vercel.app/api?username=ahmetkayaci&show_icons=true&count_private=true&theme=algolia" alt="ahmetkayaci" /></p>
 
