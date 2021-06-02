@@ -28,10 +28,13 @@
 <img alt="python" width="40px" src="https://img.icons8.com/color/240/000000/python.png">
 </code>](https://www.python.org/)
 [<code>
+<img alt="c#" width="40px" src="https://img.icons8.com/color/240/000000/c#.png">
+</code>](https://www.python.org/)
+[<code>
 <img alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
 </code>](https://dev.mysql.com/)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmetkayaci&show_icons=true&theme=dark&locale=en&layout=compact" alt="ahmetkayaci" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmetkayaci&show_icons=true&theme=dark&locale=en" alt="ahmetkayaci" /></p>
+<p>&nbsp;<a href="https://www.buymeacoffee.com/thangchung" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/lato-green.png" alt="Buy Me A Beer" style="height: 51px !important;width: 217px !important;" ></a></p>
 
