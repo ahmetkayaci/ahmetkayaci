@@ -35,5 +35,5 @@
 
 ---
 
-<p>&nbsp<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmetkayaci&show_icons=true&theme=algolia" alt="ahmetkayaci" /> <img src="https://github-readme-stats.vercel.app/api?username=ahmetkayaci&show_icons=true&count_private=true&theme=algolia" alt="ahmetkayaci" /></p>
+<p>&nbsp<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmetkayaci&show_icons=true&theme=algolia" alt="ahmetkayaci" /> <br /> <img src="https://github-readme-stats.vercel.app/api?username=ahmetkayaci&show_icons=true&count_private=true&theme=algolia" alt="ahmetkayaci" /></p>
 
