@@ -1,4 +1,4 @@
-<div style= "text-align:center"><h2>Hi 👋, I'm Ahmet </h2> </div>
+<div style= "text-align:right"><h2> Hi👋, I'm Ahmet </h2> </div>
 
 <h3> Data Science Enthusiast and Computer Science Student </h3>
 
