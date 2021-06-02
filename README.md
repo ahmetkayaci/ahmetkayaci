@@ -29,7 +29,7 @@
 </code>](https://www.python.org/)
 [<code>
 <img alt="pandas" width="26px" src="https://img.icons8.com/color/240/000000/pandas.png">
-</code>](https://www.python.org/)
+</code>](https://pandas.pydata.org/)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmetkayaci&show_icons=true&theme=dark&locale=en&layout=compact" alt="ahmetkayaci" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmetkayaci&show_icons=true&theme=dark&locale=en" alt="ahmetkayaci" /></p>
