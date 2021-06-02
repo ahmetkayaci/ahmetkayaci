@@ -19,17 +19,17 @@
 <h3 align="left"> Languages and Tools </h3>
 
 [<code>
-<img alt="visual studio" width="40px" src="https://img.icons8.com/fluent/240/000000/visual-studio-2019" />
-</code>](https://code.visualstudio.com/)
-[<code>
-<img alt="pycharm" width="40px" src="https://img.icons8.com/color/240/000000/pycharm.png" />
-</code>](https://www.jetbrains.com/pycharm/)
-[<code>
 <img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">
 </code>](https://www.python.org/)
 [<code>
 <img alt="MySQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
 </code>](https://dev.mysql.com/)
+[<code>
+<img alt="visual studio" width="40px" src="https://img.icons8.com/fluent/240/000000/visual-studio-2019" />
+</code>](https://code.visualstudio.com/)
+[<code>
+<img alt="pycharm" width="40px" src="https://img.icons8.com/color/240/000000/pycharm.png" />
+</code>](https://www.jetbrains.com/pycharm/)
 <br />
 
 
