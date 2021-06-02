@@ -32,7 +32,6 @@
 </code>](https://dev.mysql.com/)
 
 <br />
-
 ---
 
 <p>&nbsp<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmetkayaci&show_icons=true&theme=dark&locale=en&layout=compact" alt="ahmetkayaci" /> <img src="https://github-readme-stats.vercel.app/api?username=ahmetkayaci&show_icons=true&count_private=true&theme=algolia" alt="ahmetkayaci" /></p>
