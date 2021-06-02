@@ -19,7 +19,7 @@
 <h3 align="left"> Languages and Tools </h3>
 
 [<code>
-<img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">
+<img alt="python" width="35px" src="https://img.icons8.com/color/240/000000/python.png">
 </code>](https://www.python.org/)
 [<code>
 <img alt="C#" width = "35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
