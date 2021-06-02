@@ -36,5 +36,5 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmetkayaci&show_icons=true&theme=dark&locale=en&layout=compact" alt="ahmetkayaci" /></p>
-<p>&nbsp;<a href="https://www.buymeacoffee.com/thangchung" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/lato-green.png" alt="Buy Me A Beer" style="height: 51px !important;width: 217px !important;" ></a></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ahmetkayaci&show_icons=true&count_private=true&theme=algolia" alt="ahmetkayaci" /></p>
 
