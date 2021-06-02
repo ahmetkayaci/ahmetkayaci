@@ -1,4 +1,5 @@
-### Hi there 👋
+###     Hi 👋, I'm Ahmet
+###     Data Science Enthusiast and Computer Science Student
 
 <!--
 **ahmetkayaci/ahmetkayaci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
