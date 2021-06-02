@@ -1,6 +1,6 @@
-<h1 align ="center"> Hi 👋, I'm Ahmet </h1>
+<h1 align = "center"> Hi 👋, I'm Ahmet </h1>
 
-<h3> Data Science Enthusiast and Computer Science Student </h3>
+<h3 align = "center"> Data Science Enthusiast and Computer Science Student </h3>
 <br/>
 
 - 🔭 I’m currently 4th year **Computer Science Student**
