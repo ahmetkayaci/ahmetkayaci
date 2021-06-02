@@ -19,7 +19,7 @@
 <h2 align="left"> Languages and Tools </h2>
 
 [<code>
-<img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
+<img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2021.png" />
 </code>](https://code.visualstudio.com/)
 [<code>
 <img alt="pycharm" width="26px" src="https://img.icons8.com/color/240/000000/pycharm.png" />
@@ -27,9 +27,7 @@
 [<code>
 <img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">
 </code>](https://www.python.org/)
-[<code>
-<img alt="pandas" width="26px" src="https://img.icons8.com/color/240/000000/pandas.png">
-</code>](https://pandas.pydata.org/)
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmetkayaci&show_icons=true&theme=dark&locale=en&layout=compact" alt="ahmetkayaci" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmetkayaci&show_icons=true&theme=dark&locale=en" alt="ahmetkayaci" /></p>
