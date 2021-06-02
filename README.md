@@ -1,4 +1,4 @@
-<h2> Hi 👋, I'm Ahmet </h2>
+<h2>              Hi 👋, I'm Ahmet </h2>
 
 <h3> Data Science Enthusiast and Computer Science Student </h3>
 
