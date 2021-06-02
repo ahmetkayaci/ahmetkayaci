@@ -17,7 +17,7 @@
 <a href="https://kaggle.com/ahmetkayaci" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="ahmetkayaci" height="30" width="40" /></a></p>
 
 <h2 align="left"> Languages and Tools </h2>
-<br/>
+
 [<code>
 <img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
 </code>](https://code.visualstudio.com/)
