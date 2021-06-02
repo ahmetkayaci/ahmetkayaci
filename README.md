@@ -12,23 +12,23 @@
 
 <h3 align="left"> 🤝 Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ahmetkayaci" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ahmetkayaci" height="40" width="40" /></a>
-<a href="https://ahmetkayaci.medium.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="ahmet-kayaci" height="40" width="40" /></a>
-<a href="https://kaggle.com/ahmetkayaci" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="ahmetkayaci" height="40" width="40" /></a></p>
+<a href="https://linkedin.com/in/ahmetkayaci" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ahmetkayaci" height="30" width="40" /></a>
+<a href="https://ahmetkayaci.medium.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="ahmet-kayaci" height="30" width="40" /></a>
+<a href="https://kaggle.com/ahmetkayaci" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="ahmetkayaci" height="30" width="40" /></a></p>
 
-<h2 align="center"> Languages and Tools </h2>
+<h2 align="left"> Languages and Tools </h2>
 
 [<code>
-<img alt="visual studio" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-2019" />
+<img alt="visual studio" width="30px" src="https://img.icons8.com/fluent/240/000000/visual-studio-2019" />
 </code>](https://code.visualstudio.com/)
 [<code>
-<img alt="pycharm" width="26px" src="https://img.icons8.com/color/240/000000/pycharm.png" />
+<img alt="pycharm" width="30px" src="https://img.icons8.com/color/240/000000/pycharm.png" />
 </code>](https://www.jetbrains.com/pycharm/)
 [<code>
-<img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">
+<img alt="python" width="30px" src="https://img.icons8.com/color/240/000000/python.png">
 </code>](https://www.python.org/)
 [<code>
-<img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
+<img alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
 </code>](https://dev.mysql.com/)
 
 
