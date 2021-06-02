@@ -2,12 +2,20 @@
 
 <h3> Data Science Enthusiast and Computer Science Student </h3>
 
-<!--
-**ahmetkayaci/ahmetkayaci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently 4th year Computer Science Student
+- 🌱 I’m currently learning Data Science and Machine Learning 
+- 📫 How to reach me: ahmett.kayacii@gmail.com 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ahmetkayaci)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ahmetkayaci/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://ahmetkayaci.medium.com/)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetkayaci)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmetkayaci&show_icons=true&count_private=true)  
+
+![Profile views](https://gpvc.arturio.dev/ahmetkayaci)  
+
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -17,4 +25,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmetkayaci)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmetkayaci)](https://github.com/anuraghazra/github-readme-stats)>
