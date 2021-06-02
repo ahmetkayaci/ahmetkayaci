@@ -17,7 +17,6 @@
 <a href="https://kaggle.com/ahmetkayaci" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="ahmetkayaci" height="30" width="40" /></a></p>
 <br />
 
-
 ---
 
 <h3 align="left"> Languages and Tools </h3>
