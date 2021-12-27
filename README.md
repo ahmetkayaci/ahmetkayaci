@@ -3,7 +3,7 @@
 <h3 align = "left"> Data Science Enthusiast and Data Engineer </h3>
 <br/>
 
-- 🔭 I’m currently working on **Data Engineer**
+- 🔭 I’m currently working as a **Data Engineer**
 
 - 🌱 I’m currently learning **Data Science** and **Machine Learning**
 
