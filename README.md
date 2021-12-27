@@ -33,6 +33,7 @@
 [<code>
 <img alt="visual studio" width="40px" src="https://img.icons8.com/fluent/240/000000/visual-studio-2019" />
 </code>](https://code.visualstudio.com/)
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
 <br />
 
 
